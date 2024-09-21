@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Munch - The leading online food delivery platform for South Africa. Partnering with restaurants, vendors, and drivers to provide the best delivery service.">
+    <meta name="keywords" content="Food delivery, Munch, Restaurants, South Africa, Vendors, Delivery Service">
+    <meta name="author" content="Munch.co.za">
+    <title>Munch - Food Delivery</title>
+
+    <!-- SEO Optimization -->
+    <link rel="canonical" href="https://www.munch.co.za/">
+    <meta name="robots" content="index, follow">
+    <meta name="google-site-verification" content="YOUR_GOOGLE_VERIFICATION_CODE" /> <!-- Replace with actual verification code -->
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+
+        .nav ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        .nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+
+        .nav ul li a {
+            color: white;
+            text-decoration: none;
+        }
+
+        .revenue-model-container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+        }
+
+        .revenue-model {
+            background-color: #fff;
+            padding: 40px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #333;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        ul {
+            list-style-type: square;
+            margin-left: 40px;
+        }
+
+        .highlight {
+            background-color: yellow;
+            padding: 0 5px;
+        }
+
+        .example {
+            color: #555;
+            margin-top: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to Munch - Online Food Delivery</h1>
+        <div class="nav">
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="revenue-model.html">Revenue Model</a></li>
+                <li><a href="about.html">About Us</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <!-- Revenue Model Section -->
+    <div class="revenue-model-container">
+        <div class="revenue-model">
+            <h2>Revenue Model</h2>
+            <p>This is the revenue model for <strong>Munch</strong>, our aggregate food delivery platform.</p>
+
+            <ul>
+                <li><strong>Revenue Streams:</strong> Commission fees from restaurants and delivery charges.</li>
+                <li><strong>Restaurant Partners:</strong> 
+                    <ul>
+                        <li>Minimum commission of <strong>5%</strong> and up to <strong>20%</strong> per transaction.</li>
+                        <li>Example: Vendor 20% of R100 = <span class="highlight">R20 x 500 transactions/hour = R10,000 per hour</span>. Daily earnings could be R240,000.</li>
+                    </ul>
+                </li>
+                <li><strong>Delivery Charges:</strong> 
+                    <ul>
+                        <li>The platform earns 20% of the delivery fee per order.</li>
+                        <li>Example: Delivery 20% of R10 = <span class="highlight">R2 x 500 transactions/hour = R1,000 per hour</span>. Daily earnings could be R24,000.</li>
+                    </ul>
+                </li>
+                <li><strong>Pricing Strategy:</strong> 
+                    <ul>
+                        <li>Promo codes for customer retention and engagement.</li>
+                        <li>Variable commission structure for vendors, ranging from 5% to 20% depending on transaction volume.</li>
+                    </ul>
+                </li>
+            </ul>
+
+            <div class="example">
+                <strong>Example Revenue Calculation:</strong><br>
+                For 500 transactions per hour at 20% commission from vendors and delivery charges, the platform can earn up to <span class="highlight">R264,000 daily.</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer Section -->
+    <footer>
+        © 2024 Munch.co.za | All Rights Reserved
+    </footer>
+
+</body>
+</html>
